@@ -1,3 +1,4 @@
+[![Python application test with Github Actions](https://github.com/st185229/ci-cd-mlapp-boston-house-prices/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/st185229/ci-cd-mlapp-boston-house-prices/actions/workflows/pythonapp.yml)
 # Overview
 
 <TODO: complete this with an overview of your project>
@@ -43,6 +44,10 @@ The screenshots of clone using ssh is below
 ### Output of a test run
 
 ![local test](img/LocalTest.png)
+
+### GitHub Actions Run
+
+![Github Actions run results](img/GithubActionsRun.png)
 
 ### Successful deploy of the project in Azure
   Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops)
