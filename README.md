@@ -64,6 +64,7 @@ udacity@Azure:~$ ./make_predict_azure_app.sh
 Port: 443
 {"prediction":[20.35373177134412]}
 ```
+![Github Actions run results](img/PredictionTesting.png)
 
 * Output of streamed log files from deployed application
 
