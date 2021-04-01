@@ -1,6 +1,3 @@
-2. Replace yml code
-Replace the pythonapp.yml code with the following scaffolding code.
-
 name: Python application test with Github Actions
 
 on: [push]
